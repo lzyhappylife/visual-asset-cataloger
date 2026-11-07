@@ -1,0 +1,4 @@
+interface:
+  display_name: "Visual Asset Cataloger"
+  short_description: "Build image asset libraries with evidence-based CSV labels"
+  default_prompt: "Use $visual-asset-cataloger to build an independently copied image asset library and annotate each image row by row from direct visual evidence."
